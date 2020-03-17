@@ -1,4 +1,3 @@
-
 module.exports = function countCats(backyard) {
   
   catCount = 0;
